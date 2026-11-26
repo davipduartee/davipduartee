@@ -11,10 +11,11 @@
 ## 👋 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** em São Luís (MA)
-- 🚀 Fundador da **DL Company** — marketing automotivo com IA no WhatsApp/Instagram, CRM, tráfego pago e landing pages
-- 💧 Sócio da **Acqua Inovare** — startup de monitoramento de água (Sebrae Startup Supernova)
-- 🤖 Curto IA, agentes e automações — construindo coisas com Claude Code
-- 🚗 Apaixonado por carros, empreendedorismo, tecnologia e design
+- 🚀 Fundador da **DL Company** — agentes de IA no WhatsApp/Instagram, CRM, automações e landing pages
+- 💧 Sócio da **Acqua Inovare** — monitoramento de água com tecnologia (Sebrae Startup Supernova)
+- 🤖 Construindo agentes de IA e automações com Claude Code, MCPs e integrações via API
+- 💻 Desenvolvendo apps web full-stack com Next.js, TypeScript e Supabase
+- 📚 Estudando atualmente: JavaScript avançado, Python e arquitetura de software
 
 ## 🛠️ Stack
 
