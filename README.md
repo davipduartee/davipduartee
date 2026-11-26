@@ -11,7 +11,7 @@
 ## 👋 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software** em São Luís (MA)
-- 🚀 Fundador da **DL Company** — implementação de IA em empresas, agentes de IA no WhatsApp/Instagram, CRM, automações, landing pages e criação de identidade visual
+- 🚀 Fundador da **DL Company** — implementação de IA nos serviços das empresas e criação de identidade visual
 - 🤖 Construindo agentes de IA e automações com Claude Code, MCPs e integrações via API
 - 💻 Desenvolvendo apps web full-stack com Next.js, TypeScript e Supabase
 - 📚 Estudando atualmente: JavaScript avançado, Python e arquitetura de software
