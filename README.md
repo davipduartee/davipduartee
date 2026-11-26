@@ -14,7 +14,7 @@
 - 🚀 Fundador da **DL Company** — implementação de IA nos serviços das empresas e criação de identidade visual
 - 🤖 Construindo agentes de IA e automações com Claude Code, MCPs e integrações via API
 - 💻 Desenvolvendo apps web full-stack com Next.js, TypeScript e Supabase
-- 📚 Estudando atualmente: JavaScript avançado, Python e arquitetura de software
+- 📚 Estudando atualmente: arquitetura de IA, orquestração de agentes, arquitetura de software, LLMs e integrações via API
 
 ## 🛠️ Stack
 
