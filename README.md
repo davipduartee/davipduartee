@@ -49,4 +49,3 @@
   <a href="https://github.com/davipduartee"><img src="https://img.shields.io/badge/GitHub-davipduartee-181717?style=for-the-badge&logo=github"/></a>
 </p>
 
-<p align="center"><i>“Tudo posso naquele que me fortalece.” — Filipenses 4:13</i></p>
