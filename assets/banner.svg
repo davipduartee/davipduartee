@@ -10,7 +10,7 @@
   <circle cx="980" cy="260" r="110" fill="#00d4ff" opacity=".10"><animate attributeName="r" values="110;90;110" dur="7s" repeatCount="indefinite"/></circle>
   <g font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif">
     <text x="70" y="105" fill="#9aa4bf" font-size="22" letter-spacing="4">OLÁ, EU SOU</text>
-    <text x="70" y="170" fill="#ffffff" font-size="60" font-weight="800">Davi Duarte</text>
+    <text x="70" y="170" fill="#ffffff" font-size="54" font-weight="800">Davi Pereira Duarte</text>
     <rect x="70" y="190" width="120" height="5" rx="2.5" fill="url(#acc)"><animate attributeName="width" values="40;220;40" dur="5s" repeatCount="indefinite"/></rect>
     <text x="70" y="240" fill="#c9d1e6" font-size="24">Engenharia de Software · Founder da DL Company · IA &amp; Automação</text>
   </g>
